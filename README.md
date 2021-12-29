@@ -1,6 +1,6 @@
-# React Lottery
+# React Blockchain Lottery
 
-React front end app for a lottery simulator over Ethereum and Solidity.
+Lottery contest built with Ethereum and Solidity.
 
 You will require Metamask to submit transactions and some Ether available on Rinkeby Test Network.
 

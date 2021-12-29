@@ -85,6 +85,16 @@ class App extends React.Component {
 
         <h1>{this.state.message}</h1>
         <h2>{this.state.winner}</h2>
+
+        <div>
+          <a
+            href="https://github.com/monchoz/react-lottery"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub repo
+          </a>
+        </div>
       </div>
     );
   }

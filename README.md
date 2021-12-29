@@ -6,9 +6,9 @@ You will require Metamask to submit transactions and some Ether available on Rin
 
 ## What can you do?
 
-The app allows you to enter by sending any amount of ether. The winner gets picked randomly from a pool of participants.
+You can enter the contest by sending any amount of ether from your Metamask wallet. The winner will be selected at random from a pool of participants.
 
-A winner takes all the ether entered by the pool of participants.
+All the ether contributed by the pool of participants is transferred to the winner's wallet.
 
 ## Live Demo
 
